@@ -1,2 +1,2 @@
 # thungchanghill
-Thungchang Hill website code.
+Thungchang Hill resort website code.
