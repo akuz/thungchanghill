@@ -1,2 +1,2 @@
 # thungchanghill
-Thungchang Hill website Jekyll code.
+Thungchang Hill website code.
