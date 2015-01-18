@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kitchen
+title: Mom's Kitchen
 permalink: /kitchen/
 ---
 

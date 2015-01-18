@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Location
+title: Getting there
 permalink: /location/
 ---
 
