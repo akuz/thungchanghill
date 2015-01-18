@@ -2,31 +2,49 @@
 layout: default
 ---
 
-<div class="jumbotron">
+<style>
+div.welcome-slide {
+  height: 400px;
+}
+div.welcome-slide.slide1 {
+  background-color: #FF8888;
+}
+div.welcome-slide.slide2 {
+  background-color: #88FF88;
+}
+div.welcome-slide.slide3 {
+  background-color: #8888FF;
+}
+</style>
+
+      <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+          <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+          <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+          <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner" role="listbox">
+          <div class="welcome-slide slide1 item active">
+          </div>
+          <div class="welcome-slide slide2 item">
+          </div>
+          <div class="welcome-slide slide3 item">
+          </div>
+        </div>
+        <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+          <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+          <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+
+<div class="jumbotron spacer">
   <h2>Secret Escape in Northern Thailand</h2>
   <p>
-The unseen of northern Thailand is now ready for the world to enjoy. Surround yourself with nature and live like a local. Use us as a base to explore nearby attractions, or stop by on your way further north or south. Either way, you must come and see for yourself this amazing part of Thailand!
+The unseen part of northern Thailand is now ready for the you to enjoy. Surround yourself with nature and live like a local. Use us as a base to explore nearby attractions, or stop by on your way further north or south. Either way, you must come and see for yourself this amazing part of Thailand!
   </p>
 </div>
 
-<!--
-<div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
--->
