@@ -2,14 +2,64 @@
 <style>
 div.footer {
   margin-top: 0px;
-  height: 200px;
+  height: 300px;
   background-color: #333333;
   border-top: 1px solid #111111;
   border-bottom: 1px solid #111111;
 }
+div.footer h3 {
+  color: #FFFFFF;
+}
+div.footer p {
+  margin-top: 15pt;
+  color: #999999;
+}
+div.footer a {
+  color: #FFFFFF;
+}
+div.footer span {
+  color: #FFFFFF;
+}
 </style>
 
 <div class="footer">
+  <div class="container">
+  <div class="row">
+  	<div class="col-xs-6">
+  		<h3>Contact Us</h3>
+  		<p>
+  		Email (English and Thai):<br />
+  		<a href="mailto:hello@thungchanghill.com">hello@thungchanghill.com</a>
+  		</p>
+  		<p>
+  		Telephone (Thai only):<br />
+  		<span>
+		(+66) 089 9991281<br />
+		(+66) 089 9991296
+		</span>
+		</p>
+  		<p>
+  		To reserve a room please<br />
+  		see our <a href="{{ site.baseurl }}location">booking</a> page.
+  		</p>
+  	</div>
+  	<div class="col-xs-6">
+  		<h3>Address</h3>
+  		<p>
+  		Our full address:<br />
+  		<span>
+  		129/4 Thung Chang,<br />
+  		Thung Chang, Nan<br />
+  		Thailand 55130
+  		</span>
+  		</p>
+  		<p>
+  		Please check <a href="{{ site.baseurl }}location">location</a><br />
+  		page for more details.<br />
+  		</p>
+  	</div>
+  </div>
+  </div>
 </div>
 
 <script src="{{ "/ext/jquery/1.11.2/jquery.min.js" | prepend: site.baseurl }}"></script>
