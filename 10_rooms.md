@@ -6,7 +6,8 @@ permalink: /rooms/
 
 <p>
 We currently have 3 cottages available for our guests.
-Each cottage consists of two rooms separated by an outside
+Each cottage consists of two rooms (with separate entries) 
+divided by an outside
 deck of approximatelly one meter wide, which allows for a
 comfortable noise isolation between the rooms (in case you
 only book one of the rooms). The cottages are located
@@ -20,7 +21,7 @@ belongings left in the car. One of the cottages has
 a small built-in kitchen, so if you are thinking
 about cooking, please book the right cottage.
 However, you don't have to worry about food at
-all, as you can always have variety of local food 
+all, as you can always have variety of local food,
 freshly cooked for you at our 
 <a href="{{site.baseurl}}/kitchen">Mom's Kitchen</a>!
 </p>
