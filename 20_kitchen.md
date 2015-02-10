@@ -29,6 +29,11 @@ div.kitchen-pic {
   border-radius: 10px;
   margin-top: 25px;
 }
+table.table th {
+}
+h2 {
+  margin-bottom: 20pt;
+}
 </style>
 
 <div class="kitchen-pic">
@@ -36,36 +41,243 @@ div.kitchen-pic {
 
 <h2>Menu</h2>
 
+<div class="table-responsive">
+  <table class="table table-striped">
+  	<thead>
+  	  <tr>
+  	    <th>
+  	      ส้มตำ, ยำ Spicy Salads
+  	    </th>
+  	    <th>
+  	      Price
+  	    </th>
+  	  </tr>	
+  	</thead>
+  	<tbody>
+  	  <tr>
+  	    <td>
+  	      ส้มตำผลไม้ Mixed Fruit Salad
+  	    </td>
+  	    <td>
+  	      35 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ส้มตำไทย Thai Papaya Salad
+  	    </td>
+  	    <td>
+  	      30 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ส้มตำลาว Laos Papaya Salad
+  	    </td>
+  	    <td>
+  	      30 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ส้มตำปู Papaya Salad with Preserved Crab
+  	    </td>
+  	    <td>
+  	      30 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ส้มตำหมูยอ Papaya Salad with Vietnamese Sausage
+  	    </td>
+  	    <td>
+  	      40 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ส้มตำวุ้นเส้น Papaya Salad with Glass Noodles
+  	    </td>
+  	    <td>
+  	      40 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ส้มตำไข่เค็ม Papaya Salad with Preserved Eggs
+  	    </td>
+  	    <td>
+  	      40 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ยำปลากรอบ Crispy anchovies in Lime & Chilli Dressing
+  	    </td>
+  	    <td>
+  	      70 HTB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ยำวุ้นเส้น Glass Noodle Salad with Minced Pork in Lime & Chilli Dressing
+  	    </td>
+  	    <td>
+  	      60 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ยำวุ้นเส้นทะเล Glass Noodle Salad with Seafood in Lime & Chilli Dressing
+  	    </td>
+  	    <td>
+  	      80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ยำเห็ดเข็มทอง Enoki Mushrooms Salad with Shrimp in Lime & Chilli Dressing
+  	    </td>
+  	    <td>
+  	      80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      หมูมะนาว Pork Salad in Lime & Chilli Dressing
+  	    </td>
+  	    <td>
+  	      100 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      กุ้งแช่น้ำปลา Raw Shrimps in Fishsause & Chilli Dressing
+  	    </td>
+  	    <td>
+  	      100 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      แหนมทรงเครื่อง Preserved Pork Sausage Salad with Ginger and Chilli
+  	    </td>
+  	    <td>
+  	      80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      พล่าเนื้อ Grilled Beef Salad with Lime & Chilli Dressing
+  	    </td>
+  	    <td>
+  	      100 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      น้ำตก Grilled Pork Belly Salad with Lime & Chilli Dressing
+  	    </td>
+  	    <td>
+  	      80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ตับหวาน Pork Liver Salad with Lime & Chilli Dressing
+  	    </td>
+  	    <td>
+  	      80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ลาบอีสาน Minced Pork Sald with Lime & Chilli Dressing
+  	    </td>
+  	    <td>
+  	      80 THB
+  	    </td>
+  	  </tr>
+  	</tbody>
+  </table>
+</div>
+
+
+<div class="table-responsive">
+  <table class="table table-striped">
+  	<thead>
+  	  <tr>
+  	    <th>
+  	      ปิ้งย่าง Grilled Dishes
+  	    </th>
+  	    <th>
+  	      Price
+  	    </th>
+  	  </tr>	
+  	</thead>
+  	<tbody>
+  	  <tr>
+  	    <td>
+  	      ปลาเผา Grilled Red Snapper
+  	    </td>
+  	    <td>
+  	      150, 200, 250 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      เมี่ยงปลาเผา Grilled Red Snapper Serve with Rice Noodle, Lettuce and Thai Dipping
+  	    </td>
+  	    <td>
+  	      150, 200, 250 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      กุ้งเผา Grilled Shrimps
+  	    </td>
+  	    <td>
+  	      150 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ไส้ย่าง Grilled Pork Colon
+  	    </td>
+  	    <td>
+  	      80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      แป้งนม Grilled Pork Breast
+  	    </td>
+  	    <td>
+  	      80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      คอหมูย่าง Grilled Pork Belly
+  	    </td>
+  	    <td>
+  	      80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ใส้อั่ว Northern Pork Sausage
+  	    </td>
+  	    <td>
+  	      100 THB
+  	    </td>
+  	  </tr>
+  	</tbody>
+  </table>
+</div>
+
 <pre>
-ส้มตำ, ยำ Spicy Salad
-ส้มตำผลไม้ Mixed Fruit Salad_________________________________________________________________________ 35 THB
-ส้มตำไทย Thai Papaya Salad_________________________________________________________________________ 30 THB
-ส้มตำลาว Laos Papaya Salad_________________________________________________________________________30 THB
-ส้มตำปู Papaya Salad with Preserved Crab_____________________________________________________________ 30THB
-ส้มตำหมูยอ Papaya Salad witt Vietnamese Sausage_____________________________________________________ 40 THB
-ส้มตำวุ้นเส้น Papaya Salad with Glass Noodle___________________________________________________________ 40 THB
-ส้มตำไข่เค็ม Papaya Salad with Preserved Eggs_________________________________________________________ 40 THB
-ยำปลากรอบ Crispy anchovies in Lime & Chilli Dressing__________________________________________________ 70 THB
-ยำวุ้นเส้น Glass Noodle Salad with Minced Pork in Lime & Chilli Dressing___________________________________60 THB
-ยำวุ้นเส้นทะเล Glass Noodle Salad with Seafood in Lime & Chilli Dressing___________________________________80 THB
-ยำเห็ดเข็มทอง Enoki Mushrooms Salad with Shrimp in Lime & Chilli Dressing________________________________80 THB
-หมูมะนาว Pork Salad in Lime & Chilli Dressing__________________________________________________________100 THB
-กุ้งแช่น้ำปลา Raw Shrimps in Fishsause & Chilli dressing________________________________________________ 100 THB
-แหนมทรงเครื่อง Preserved Pork Sausage Salad with Ginger and Chilli______________________________________ 80 THB
-พล่าเนื้อ Grilled Beef Salad with Lime & Chilli Dressing__________________________________________________ 100 THB
-น้ำตก Grilled Pork Belly Salad with Lime & Chilli Dressing________________________________________________ 80 THB
-ตับหวาน Pork Liver Salad with Lime & Chilli Dressing____________________________________________________ 80 THB
-ลาบอีสาน Minced Pork Sald with Lime & Chilli Dressing__________________________________________________ 80 THB
- 
-ปิ้งย่าง Grill
-ปลาเผา Grilled Red Snapper________________________________________________________________150, 200, 250 THB
-เมี่ยงปลาเผา Grilled Red Snapper Serve with Rice Noodle, Lettuce and Thai deeping______________ 150, 200, 250 THB
-กุ้งเผา Grilled Shrimps_______________________________________________________________________________150 THB
-ไส้ย่าง Grilled Pork Colon_____________________________________________________________________________80 THB
-แป้งนม Grilled Pork Breast____________________________________________________________________________80 THB
-คอหมูย่าง Grilled Pork Belly___________________________________________________________________________80 THB
-ใส้อั่ว Northern Pork Sausage________________________________________________________________________100 THB
- 
+
 ก๋วยเตี๋ยว Noodle&Rice
 ก๋วยเตี๋ยวหมูตุ๋น (เส้นเล็ก, เส้นใหญ่, เส้นหมี่, วุ้นเส้น, บะหมี่)
 Pork Stew Noodle Soup (Rice Noodle, Flat Noodle, Thin Rice Noodle, Glass Noodle, Eggs Noodle)_________30 THB
