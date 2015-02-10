@@ -29,6 +29,9 @@ div.kitchen-pic {
   border-radius: 10px;
   margin-top: 25px;
 }
+table.table th {
+  font-size: large;
+}
 table.table th.price {
   width: 200px;
 }
@@ -57,7 +60,8 @@ h2 {
   	<tbody>
   	  <tr>
   	    <td>
-  	      ส้มตำผลไม้ Mixed Fruit Salad
+  	      ส้มตำผลไม้ <br />
+  	      Mixed Fruit Salad
   	    </td>
   	    <td>
   	      35 THB
@@ -65,7 +69,8 @@ h2 {
   	  </tr>
   	  <tr>
   	    <td>
-  	      ส้มตำไทย Thai Papaya Salad
+  	      ส้มตำไทย <br />
+  	      Thai Papaya Salad
   	    </td>
   	    <td>
   	      30 THB
@@ -73,7 +78,8 @@ h2 {
   	  </tr>
   	  <tr>
   	    <td>
-  	      ส้มตำลาว Laos Papaya Salad
+  	      ส้มตำลาว <br />
+  	      Laos Papaya Salad
   	    </td>
   	    <td>
   	      30 THB
@@ -81,7 +87,8 @@ h2 {
   	  </tr>
   	  <tr>
   	    <td>
-  	      ส้มตำปู Papaya Salad with Preserved Crab
+  	      ส้มตำปู <br />
+  	      Papaya Salad with Preserved Crab
   	    </td>
   	    <td>
   	      30 THB
@@ -89,7 +96,8 @@ h2 {
   	  </tr>
   	  <tr>
   	    <td>
-  	      ส้มตำหมูยอ Papaya Salad with Vietnamese Sausage
+  	      ส้มตำหมูยอ <br />
+  	      Papaya Salad with Vietnamese Sausage
   	    </td>
   	    <td>
   	      40 THB
@@ -97,7 +105,8 @@ h2 {
   	  </tr>
   	  <tr>
   	    <td>
-  	      ส้มตำวุ้นเส้น Papaya Salad with Glass Noodles
+  	      ส้มตำวุ้นเส้น <br />
+  	      Papaya Salad with Glass Noodles
   	    </td>
   	    <td>
   	      40 THB
@@ -105,7 +114,8 @@ h2 {
   	  </tr>
   	  <tr>
   	    <td>
-  	      ส้มตำไข่เค็ม Papaya Salad with Preserved Eggs
+  	      ส้มตำไข่เค็ม <br />
+  	      Papaya Salad with Preserved Eggs
   	    </td>
   	    <td>
   	      40 THB
@@ -113,7 +123,8 @@ h2 {
   	  </tr>
   	  <tr>
   	    <td>
-  	      ยำปลากรอบ Crispy anchovies in Lime & Chilli Dressing
+  	      ยำปลากรอบ <br />
+  	      Crispy anchovies in Lime & Chilli Dressing
   	    </td>
   	    <td>
   	      70 HTB
@@ -121,7 +132,8 @@ h2 {
   	  </tr>
   	  <tr>
   	    <td>
-  	      ยำวุ้นเส้น Glass Noodle Salad with Minced Pork in Lime & Chilli Dressing
+  	      ยำวุ้นเส้น <br />
+  	      Glass Noodle Salad with Minced Pork in Lime & Chilli Dressing
   	    </td>
   	    <td>
   	      60 THB
@@ -129,7 +141,8 @@ h2 {
   	  </tr>
   	  <tr>
   	    <td>
-  	      ยำวุ้นเส้นทะเล Glass Noodle Salad with Seafood in Lime & Chilli Dressing
+  	      ยำวุ้นเส้นทะเล <br />
+  	      Glass Noodle Salad with Seafood in Lime & Chilli Dressing
   	    </td>
   	    <td>
   	      80 THB
@@ -137,7 +150,8 @@ h2 {
   	  </tr>
   	  <tr>
   	    <td>
-  	      ยำเห็ดเข็มทอง Enoki Mushrooms Salad with Shrimp in Lime & Chilli Dressing
+  	      ยำเห็ดเข็มทอง <br />
+  	      Enoki Mushrooms Salad with Shrimp in Lime & Chilli Dressing
   	    </td>
   	    <td>
   	      80 THB
@@ -145,7 +159,8 @@ h2 {
   	  </tr>
   	  <tr>
   	    <td>
-  	      หมูมะนาว Pork Salad in Lime & Chilli Dressing
+  	      หมูมะนาว <br />
+  	      Pork Salad in Lime & Chilli Dressing
   	    </td>
   	    <td>
   	      100 THB
@@ -153,7 +168,8 @@ h2 {
   	  </tr>
   	  <tr>
   	    <td>
-  	      กุ้งแช่น้ำปลา Raw Shrimps in Fishsause & Chilli Dressing
+  	      กุ้งแช่น้ำปลา <br />
+  	      Raw Shrimps in Fishsause & Chilli Dressing
   	    </td>
   	    <td>
   	      100 THB
@@ -161,7 +177,8 @@ h2 {
   	  </tr>
   	  <tr>
   	    <td>
-  	      แหนมทรงเครื่อง Preserved Pork Sausage Salad with Ginger and Chilli
+  	      แหนมทรงเครื่อง <br />
+  	      Preserved Pork Sausage Salad with Ginger and Chilli
   	    </td>
   	    <td>
   	      80 THB
@@ -169,7 +186,8 @@ h2 {
   	  </tr>
   	  <tr>
   	    <td>
-  	      พล่าเนื้อ Grilled Beef Salad with Lime & Chilli Dressing
+  	      พล่าเนื้อ <br />
+  	      Grilled Beef Salad with Lime & Chilli Dressing
   	    </td>
   	    <td>
   	      100 THB
@@ -177,7 +195,8 @@ h2 {
   	  </tr>
   	  <tr>
   	    <td>
-  	      น้ำตก Grilled Pork Belly Salad with Lime & Chilli Dressing
+  	      น้ำตก <br />
+  	      Grilled Pork Belly Salad with Lime & Chilli Dressing
   	    </td>
   	    <td>
   	      80 THB
@@ -185,7 +204,8 @@ h2 {
   	  </tr>
   	  <tr>
   	    <td>
-  	      ตับหวาน Pork Liver Salad with Lime & Chilli Dressing
+  	      ตับหวาน <br />
+  	      Pork Liver Salad with Lime & Chilli Dressing
   	    </td>
   	    <td>
   	      80 THB
@@ -193,7 +213,8 @@ h2 {
   	  </tr>
   	  <tr>
   	    <td>
-  	      ลาบอีสาน Minced Pork Sald with Lime & Chilli Dressing
+  	      ลาบอีสาน <br />
+  	      Minced Pork Sald with Lime & Chilli Dressing
   	    </td>
   	    <td>
   	      80 THB
@@ -218,7 +239,8 @@ h2 {
   	<tbody>
   	  <tr>
   	    <td>
-  	      ปลาเผา Grilled Red Snapper
+  	      ปลาเผา<br />
+  	      Grilled Red Snapper
   	    </td>
   	    <td>
   	      150, 200, 250 THB
@@ -226,7 +248,8 @@ h2 {
   	  </tr>
   	  <tr>
   	    <td>
-  	      เมี่ยงปลาเผา Grilled Red Snapper Serve with Rice Noodle, Lettuce and Thai Dipping
+  	      เมี่ยงปลาเผา<br />
+  	      Grilled Red Snapper Serve with Rice Noodle, Lettuce and Thai Dipping
   	    </td>
   	    <td>
   	      150, 200, 250 THB
@@ -234,7 +257,8 @@ h2 {
   	  </tr>
   	  <tr>
   	    <td>
-  	      กุ้งเผา Grilled Shrimps
+  	      กุ้งเผา<br />
+  	      Grilled Shrimps
   	    </td>
   	    <td>
   	      150 THB
@@ -242,7 +266,8 @@ h2 {
   	  </tr>
   	  <tr>
   	    <td>
-  	      ไส้ย่าง Grilled Pork Colon
+  	      ไส้ย่าง<br />
+  	      Grilled Pork Colon
   	    </td>
   	    <td>
   	      80 THB
@@ -250,7 +275,8 @@ h2 {
   	  </tr>
   	  <tr>
   	    <td>
-  	      แป้งนม Grilled Pork Breast
+  	      แป้งนม<br />
+  	      Grilled Pork Breast
   	    </td>
   	    <td>
   	      80 THB
@@ -258,7 +284,8 @@ h2 {
   	  </tr>
   	  <tr>
   	    <td>
-  	      คอหมูย่าง Grilled Pork Belly
+  	      คอหมูย่าง<br />
+  	      Grilled Pork Belly
   	    </td>
   	    <td>
   	      80 THB
@@ -266,7 +293,8 @@ h2 {
   	  </tr>
   	  <tr>
   	    <td>
-  	      ใส้อั่ว Northern Pork Sausage
+  	      ใส้อั่ว<br />
+  	      Northern Pork Sausage
   	    </td>
   	    <td>
   	      100 THB
@@ -276,13 +304,12 @@ h2 {
   </table>
 </div>
 
-
 <div class="table-responsive">
   <table class="table table-striped">
   	<thead>
   	  <tr>
   	    <th>
-  	      ก๋วยเตี๋ยว Noodles & Rice Dishes
+  	      ก๋วยเตี๋ยว Noodle & Rice Dishes
   	    </th>
   	    <th class="price">
   	      Price
@@ -357,41 +384,256 @@ h2 {
   </table>
 </div>
 
-<pre>
+<div class="table-responsive">
+  <table class="table table-striped">
+  	<thead>
+  	  <tr>
+  	    <th>
+  	      ต้ม, แกง Soups
+  	    </th>
+  	    <th class="price">
+  	      Price
+  	    </th>
+  	  </tr>	
+  	</thead>
+  	<tbody>
+  	  <tr>
+  	    <td>
+  	      ต้มยำกุ้ง<br />
+  	      Tom Yam Shrimps
+  	    </td>
+  	    <td>
+  	      150 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ต้มยำไก่บ้าน<br />
+  	      Tom Yam Chicken
+  	    </td>
+  	    <td>
+  	      150 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ต้มยำปลาช่อน<br />
+  	      Tom Yam Snakehead Fish
+  	    </td>
+  	    <td>
+  	      150 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ต้มยำปลานิล<br />
+  	      Tom Yam Tilapia
+  	    </td>
+  	    <td>
+  	      150 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      แกงเลียง (หมู, ไก่, เนื้อ, กุ้ง)<br />
+  	      Mixed Local Vegetables Soup
+  	    </td>
+  	    <td>
+  	      50, 80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      แกงจืดเต้าหู้<br />
+  	      Minsed Pork and Egg Tofu Soup
+  	    </td>
+  	    <td>
+  	      80 THB
+  	    </td>
+  	  </tr>
+  	</tbody>
+  </table>
+</div>
 
- 
-ต้ม, แกง Soup
-ต้มยำกุ้ง Tom Yam Shrimps__________________________________________________________________________150 THB
-ต้มยำไก่บ้าน Tom Yam Chicken_______________________________________________________________________150 THB
-ต้มยำปลาช่อน Tom Yam Snakehead Fish______________________________________________________________150 THB
-ต้มยำปลานิล Tom Yam Tilapia________________________________________________________________________150 THB
-แกงเลียง (หมู, ไก่, เนื้อ, กุ้ง) Mixed Local Vegetable Soup_______________________________________________50, 80 THB
-แกงจืดเต้าหู้ Minsed Pork and Egg Tofu Soup___________________________________________________________80 THB
- 
-นึ่ง Steamed
-ปลานึ่งมะนาว Steam Snaper with Lime____________________________________________________________150, 200 THB
-ปลานึ่งน้ำพริกหนุ่ม Steam Snaper with Nortern style deeping_________________________________________150, 200 THB
-ไก่นึ่งสมุนไพร Steam Chicken with Mixed Herbs________________________________________________________150 THB
- 
-ผัดๆ ทอดๆ Saute, Deep fired
-ผัดกระเพรา (หมู, ไก่, เนื้อ, กุ้ง, ทะเล)
-Hot basil Sause (Pork, Chicken, Beef, Shrimps or Mixed Seafood)___________________________________50, 80 THB
-ผัดพริก (หมู, ไก่, เนื้อ, กุ้ง, ทะเล)
-Sweet Chilli Sause (Pork, Chicken, Beef, Shrimps or Mixed Seafood)________________________________50, 80 THB
-ผัดเปรี้ยวหวาน (หมู, ไก่, เนื้อ, กุ้ง, ทะเล)
-Sweet & Soure Sause (Pork, Chicken, Beef, Shrimps or Mixed Seafood)_____________________________50, 80 THB
-ผัดหน่อไม้ฝรั้ง (หมู, ไก่, เนื้อ, กุ้ง, ทะเล)
-Asparagus Saute in Oyster Sause (Pork, Chicken, Beef, Shrimps or Mixed Seafood)__________________50, 80 THB
-ผัดเผ็ด (หมู, ไก่, เนื้อ, กุ้ง, ทะเล, ปลาดุก, ปลาไหล, ปลาคัง)
-Chilli Past Saute (Pork, Chicken, Beef, Shrimps, Seafood, Catfish, Eel or Giant Catfish)________________50, 80 THB
-ปลาหมึกผัดไข่เค็ม Squid Saute in Preserved Eggs Sause_______________________________________________100 THB
-ผัดผักบุ้งไฟแดง Morning Glory Saute in Oyster Sause___________________________________________________50 THB
-ผัดผักน้ำมันหอย Chinese Broccoli Saute in Oyster Sause_____________________________________________50, 80 THB
-คะน้าหมูกรอบ Chinese Broccoli with Chrispy Pork Belli Saute in Oyster Sause______________________________80 THB
-แหนมซี่โครงทอด Preserved Pork Ribs Fried with Garlic__________________________________________________80 THB
-กุ้งชุบแป้งทอด Deep Fried Shrimps___________________________________________________________________150 THB
-ไก่ชุบแป้งทอด Fried Chicken_________________________________________________________________________80 THB
-ไข่เจียว Thai Omelette_______________________________________________________________________________30 THB
+<div class="table-responsive">
+  <table class="table table-striped">
+  	<thead>
+  	  <tr>
+  	    <th>
+  	      นึ่ง Steamed Dishes
+  	    </th>
+  	    <th class="price">
+  	      Price
+  	    </th>
+  	  </tr>	
+  	</thead>
+  	<tbody>
+  	  <tr>
+  	    <td>
+  	      ปลานึ่งมะนาว<br />
+  	      Steamed Snaper with Lime
+  	    </td>
+  	    <td>
+  	      150, 200 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ปลานึ่งน้ำพริกหนุ่ม<br />
+  	      Steamed Snaper with Nortern Style Dipping
+  	    </td>
+  	    <td>
+  	      150, 200 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ไก่นึ่งสมุนไพร<br />
+  	      Steamed Chicken with Mixed Herbs
+  	    </td>
+  	    <td>
+  	      150 THB
+  	    </td>
+  	  </tr>
+  	</tbody>
+  </table>
+</div>
+
+<div class="table-responsive">
+  <table class="table table-striped">
+  	<thead>
+  	  <tr>
+  	    <th>
+  	      ผัดๆ ทอดๆ Saute & Deep Fried Dishes
+  	    </th>
+  	    <th class="price">
+  	      Price
+  	    </th>
+  	  </tr>	
+  	</thead>
+  	<tbody>
+  	  <tr>
+  	    <td>
+  	      ผัดกระเพรา (หมู, ไก่, เนื้อ, กุ้ง, ทะเล)<br />
+  	      Hot Basil Sause (Pork, Chicken, Beef, Shrimps or Mixed Seafood)
+  	    </td>
+  	    <td>
+  	      50, 80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ผัดพริก (หมู, ไก่, เนื้อ, กุ้ง, ทะเล)<br />
+  	      Sweet Chilli Sause (Pork, Chicken, Beef, Shrimps or Mixed Seafood)
+  	    </td>
+  	    <td>
+  	      50, 80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ผัดเปรี้ยวหวาน (หมู, ไก่, เนื้อ, กุ้ง, ทะเล)<br />
+  	      Sweet & Sour Sause (Pork, Chicken, Beef, Shrimps or Mixed Seafood)
+  	    </td>
+  	    <td>
+  	      50, 80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ผัดหน่อไม้ฝรั้ง (หมู, ไก่, เนื้อ, กุ้ง, ทะเล)<br />
+  	      Asparagus Saute in Oyster Sause (Pork, Chicken, Beef, Shrimps or Mixed Seafood)
+  	    </td>
+  	    <td>
+  	      50, 80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ผัดเผ็ด (หมู, ไก่, เนื้อ, กุ้ง, ทะเล, ปลาดุก, ปลาไหล, ปลาคัง)<br />
+  	      Chilli Paste Saute (Pork, Chicken, Beef, Shrimps, Seafood, Catfish, Eel or Giant Catfish)
+  	    </td>
+  	    <td>
+  	      50, 80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ปลาหมึกผัดไข่เค็ม <br />
+  	      Squid Saute in Preserved Eggs Sause
+  	    </td>
+  	    <td>
+  	      100 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ผัดผักบุ้งไฟแดง <br />
+  	      Morning Glory Saute in Oyster Sause
+  	    </td>
+  	    <td>
+  	      50 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ผัดผักน้ำมันหอย <br />
+  	      Chinese Broccoli Saute in Oyster Sause
+  	    </td>
+  	    <td>
+  	      50, 80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      คะน้าหมูกรอบ <br />
+  	      Chinese Broccoli with Chrispy Pork Belli Saute in Oyster Sause
+  	    </td>
+  	    <td>
+  	      80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      แหนมซี่โครงทอด <br />
+  	      Preserved Pork Ribs Fried with Garlic
+  	    </td>
+  	    <td>
+  	      80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      กุ้งชุบแป้งทอด <br />
+  	      Deep Fried Shrimps
+  	    </td>
+  	    <td>
+  	      150 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ไก่ชุบแป้งทอด <br />
+  	      Fried Chicken
+  	    </td>
+  	    <td>
+  	      80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ไข่เจียว <br />
+  	      Thai Omelette
+  	    </td>
+  	    <td>
+  	      30 THB
+  	    </td>
+  	  </tr>
+  	</tbody>
+  </table>
+</div>
+
+<pre>
  
 จานเล็ก Side Dish
 ข้าวสวย White Rice_________________________________________________________________________________10 THB
