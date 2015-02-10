@@ -29,7 +29,8 @@ div.kitchen-pic {
   border-radius: 10px;
   margin-top: 25px;
 }
-table.table th {
+table.table th.price {
+  width: 200px;
 }
 h2 {
   margin-bottom: 20pt;
@@ -48,7 +49,7 @@ h2 {
   	    <th>
   	      ส้มตำ, ยำ Spicy Salads
   	    </th>
-  	    <th>
+  	    <th class="price">
   	      Price
   	    </th>
   	  </tr>	
@@ -202,7 +203,6 @@ h2 {
   </table>
 </div>
 
-
 <div class="table-responsive">
   <table class="table table-striped">
   	<thead>
@@ -210,7 +210,7 @@ h2 {
   	    <th>
   	      ปิ้งย่าง Grilled Dishes
   	    </th>
-  	    <th>
+  	    <th class="price">
   	      Price
   	    </th>
   	  </tr>	
@@ -276,23 +276,89 @@ h2 {
   </table>
 </div>
 
+
+<div class="table-responsive">
+  <table class="table table-striped">
+  	<thead>
+  	  <tr>
+  	    <th>
+  	      ก๋วยเตี๋ยว Noodles & Rice Dishes
+  	    </th>
+  	    <th class="price">
+  	      Price
+  	    </th>
+  	  </tr>	
+  	</thead>
+  	<tbody>
+  	  <tr>
+  	    <td>
+  	      ก๋วยเตี๋ยวหมูตุ๋น (เส้นเล็ก, เส้นใหญ่, เส้นหมี่, วุ้นเส้น, บะหมี่)<br />
+  	      Pork Stew Noodle Soup (Rice Noodles, Flat Noodles, Thin Rice Noodles, Glass Noodles, Egg Noodles)
+  	    </td>
+  	    <td>
+  	      30 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ก๋วยเตี๋ยวเนื้อตุ๋น (เส้นเล็ก, เส้นใหญ่, เส้นหมี่, วุ้นเส้น, บะหมี่)<br />
+  	      Beef Stew Noodle Soup (Rice Noodles, Flat Noodles, Thin Rice Noodles, Glass Noodles, Egg Noodles)
+  	    </td>
+  	    <td>
+  	      30 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ก๋วยเตี๋ยวลูกชิ้น (เส้นเล็ก, เส้นใหญ่, เส้นหมี่, วุ้นเส้น, บะหมี่)<br />
+  	      Meetball Noodle Soup (Rice Noodles, Flat Noodles, Thin Rice Noodles, Glass Noodles, Egg Noodles)
+  	    </td>
+  	    <td>
+  	      30 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ผักไทย (หมู, ไก่, เนื้อ, กุ้ง, ทะเล)<br />
+  	      Pan-Fried Pad Thai Noodles (Pork, Chicken, Beef, Shrimps or Mixed Seafood)
+  	    </td>
+  	    <td>
+  	      30, 40 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ผัดซีอิ้ว (หมู, ไก่, เนื้อ, กุ้ง, ทะเล)<br />
+  	      Pan-Fried Flat Noodles with Eggs and Chinese Broccoli (Pork, Chicken, Beef, Shrimps or Mixed Seafood)
+  	    </td>
+  	    <td>
+  	      30, 40 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ลาดหน้า (หมู, ไก่, เนื้อ, กุ้ง, ทะเล)<br />
+  	      Pan-Fried Flat Noodles With Chiness Broccoli and Gravy (Pork, Chicken, Beef, Shrimps or Mixed Seafood)
+  	    </td>
+  	    <td>
+  	      30, 40 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ข้าวผัด (หมู, ไก่, เนื้อ, กุ้ง, ทะเล)<br />
+  	      Fried Rice (Pork, Chicken, Beef, Shrimps or Mixed Seafood)
+  	    </td>
+  	    <td>
+  	      30, 40 THB
+  	    </td>
+  	  </tr>
+  	</tbody>
+  </table>
+</div>
+
 <pre>
 
-ก๋วยเตี๋ยว Noodle&Rice
-ก๋วยเตี๋ยวหมูตุ๋น (เส้นเล็ก, เส้นใหญ่, เส้นหมี่, วุ้นเส้น, บะหมี่)
-Pork Stew Noodle Soup (Rice Noodle, Flat Noodle, Thin Rice Noodle, Glass Noodle, Eggs Noodle)_________30 THB
-ก๋วยเตี๋ยวเนื้อตุ๋น (เส้นเล็ก, เส้นใหญ่, เส้นหมี่, วุ้นเส้น, บะหมี่)
-Beef Stew Noodle Soup (Rice Noodle, Flat Noodle, Thin Rice Noodle, Glass Noodle, Eggs Noodle)_________30 THB
-ก๋วยเตี๋ยวลูกชิ้น (เส้นเล็ก, เส้นใหญ่, เส้นหมี่, วุ้นเส้น, บะหมี่)
-Meetball Noodle Soup (Rice Noodle, Flat Noodle, Thin Rice Noodle, Glass Noodle, Eggs Noodle)__________30 THB
-ผักไทย (หมู, ไก่, เนื้อ, กุ้ง, ทะเล)
-Pan-Fried Pad Thai Noodle (Pork, Chicken, Beef, Shrimps or Mixed Seafood)_________________________30, 40 THB
-ผัดซีอิ้ว (หมู, ไก่, เนื้อ, กุ้ง, ทะเล)
-Pan-Fried Flat Noodle with Eggs and Chinese Broccoli (Pork, Chicken, Beef, Shrimps or Mixed Seafood)_30, 40 THB
-ลาดหน้า (หมู, ไก่, เนื้อ, กุ้ง, ทะเล)
-Pan-Fried Flat Noodle With Chiness Broccoli and Gravy (Pork, Chicken, Beef, Shrimps or Mixed Seafood)_30,40 THB
-ข้าวผัด (หมู, ไก่, เนื้อ, กุ้ง, ทะเล)
-Fried Rice (Pork, Chicken, Beef, Shrimps or Mixed Seafood)_________________________________________30, 40 THB
  
 ต้ม, แกง Soup
 ต้มยำกุ้ง Tom Yam Shrimps__________________________________________________________________________150 THB
