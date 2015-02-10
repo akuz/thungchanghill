@@ -169,7 +169,7 @@ h2 {
   	  <tr>
   	    <td>
   	      กุ้งแช่น้ำปลา <br />
-  	      Raw Shrimps in Fishsause & Chilli Dressing
+  	      Raw Shrimps in FishSauce & Chilli Dressing
   	    </td>
   	    <td>
   	      100 THB
@@ -515,7 +515,7 @@ h2 {
   	  <tr>
   	    <td>
   	      ผัดกระเพรา (หมู, ไก่, เนื้อ, กุ้ง, ทะเล)<br />
-  	      Hot Basil Sause (Pork, Chicken, Beef, Shrimps or Mixed Seafood)
+  	      Hot Basil Sauce (Pork, Chicken, Beef, Shrimps or Mixed Seafood)
   	    </td>
   	    <td>
   	      50, 80 THB
@@ -524,7 +524,7 @@ h2 {
   	  <tr>
   	    <td>
   	      ผัดพริก (หมู, ไก่, เนื้อ, กุ้ง, ทะเล)<br />
-  	      Sweet Chilli Sause (Pork, Chicken, Beef, Shrimps or Mixed Seafood)
+  	      Sweet Chilli Sauce (Pork, Chicken, Beef, Shrimps or Mixed Seafood)
   	    </td>
   	    <td>
   	      50, 80 THB
@@ -533,7 +533,7 @@ h2 {
   	  <tr>
   	    <td>
   	      ผัดเปรี้ยวหวาน (หมู, ไก่, เนื้อ, กุ้ง, ทะเล)<br />
-  	      Sweet & Sour Sause (Pork, Chicken, Beef, Shrimps or Mixed Seafood)
+  	      Sweet & Sour Sauce (Pork, Chicken, Beef, Shrimps or Mixed Seafood)
   	    </td>
   	    <td>
   	      50, 80 THB
@@ -542,7 +542,7 @@ h2 {
   	  <tr>
   	    <td>
   	      ผัดหน่อไม้ฝรั้ง (หมู, ไก่, เนื้อ, กุ้ง, ทะเล)<br />
-  	      Asparagus Saute in Oyster Sause (Pork, Chicken, Beef, Shrimps or Mixed Seafood)
+  	      Asparagus Saute in Oyster Sauce (Pork, Chicken, Beef, Shrimps or Mixed Seafood)
   	    </td>
   	    <td>
   	      50, 80 THB
@@ -560,7 +560,7 @@ h2 {
   	  <tr>
   	    <td>
   	      ปลาหมึกผัดไข่เค็ม <br />
-  	      Squid Saute in Preserved Eggs Sause
+  	      Squid Saute in Preserved Eggs Sauce
   	    </td>
   	    <td>
   	      100 THB
@@ -569,7 +569,7 @@ h2 {
   	  <tr>
   	    <td>
   	      ผัดผักบุ้งไฟแดง <br />
-  	      Morning Glory Saute in Oyster Sause
+  	      Morning Glory Saute in Oyster Sauce
   	    </td>
   	    <td>
   	      50 THB
@@ -578,7 +578,7 @@ h2 {
   	  <tr>
   	    <td>
   	      ผัดผักน้ำมันหอย <br />
-  	      Chinese Broccoli Saute in Oyster Sause
+  	      Chinese Broccoli Saute in Oyster Sauce
   	    </td>
   	    <td>
   	      50, 80 THB
@@ -587,7 +587,7 @@ h2 {
   	  <tr>
   	    <td>
   	      คะน้าหมูกรอบ <br />
-  	      Chinese Broccoli with Chrispy Pork Belli Saute in Oyster Sause
+  	      Chinese Broccoli with Chrispy Pork Belli Saute in Oyster Sauce
   	    </td>
   	    <td>
   	      80 THB
