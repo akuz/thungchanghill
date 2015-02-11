@@ -124,7 +124,7 @@ h2 {
   	  <tr>
   	    <td>
   	      ยำปลากรอบ <br />
-  	      Crispy anchovies in Lime & Chilli Dressing
+  	      Crispy Anchovies in Lime & Chilli Dressing
   	    </td>
   	    <td>
   	      70 HTB
@@ -151,7 +151,7 @@ h2 {
   	  <tr>
   	    <td>
   	      ยำเห็ดเข็มทอง <br />
-  	      Enoki Mushrooms Salad with Shrimp in Lime & Chilli Dressing
+  	      Enoki Mushrooms Salad with Shrimps in Lime & Chilli Dressing
   	    </td>
   	    <td>
   	      80 THB
@@ -169,7 +169,7 @@ h2 {
   	  <tr>
   	    <td>
   	      กุ้งแช่น้ำปลา <br />
-  	      Raw Shrimps in FishSauce & Chilli Dressing
+  	      Raw Shrimps in Fish Sauce & Chilli Dressing
   	    </td>
   	    <td>
   	      100 THB
@@ -249,7 +249,7 @@ h2 {
   	  <tr>
   	    <td>
   	      เมี่ยงปลาเผา<br />
-  	      Grilled Red Snapper Serve with Rice Noodle, Lettuce and Thai Dipping
+  	      Grilled Red Snapper Served with Rice Noodles, Lettuce and Thai Dipping
   	    </td>
   	    <td>
   	      150, 200, 250 THB
@@ -338,7 +338,7 @@ h2 {
   	  <tr>
   	    <td>
   	      ก๋วยเตี๋ยวลูกชิ้น (เส้นเล็ก, เส้นใหญ่, เส้นหมี่, วุ้นเส้น, บะหมี่)<br />
-  	      Meetball Noodle Soup (Rice Noodles, Flat Noodles, Thin Rice Noodles, Glass Noodles, Egg Noodles)
+  	      Meatball Noodle Soup (Rice Noodles, Flat Noodles, Thin Rice Noodles, Glass Noodles, Egg Noodles)
   	    </td>
   	    <td>
   	      30 THB
@@ -365,7 +365,7 @@ h2 {
   	  <tr>
   	    <td>
   	      ลาดหน้า (หมู, ไก่, เนื้อ, กุ้ง, ทะเล)<br />
-  	      Pan-Fried Flat Noodles With Chiness Broccoli and Gravy (Pork, Chicken, Beef, Shrimps or Mixed Seafood)
+  	      Pan-Fried Flat Noodles With Chinese Broccoli and Gravy (Pork, Chicken, Beef, Shrimps or Mixed Seafood)
   	    </td>
   	    <td>
   	      30, 40 THB
@@ -471,7 +471,7 @@ h2 {
   	  <tr>
   	    <td>
   	      ปลานึ่งมะนาว<br />
-  	      Steamed Snaper with Lime
+  	      Steamed Snapper with Lime
   	    </td>
   	    <td>
   	      150, 200 THB
@@ -480,7 +480,7 @@ h2 {
   	  <tr>
   	    <td>
   	      ปลานึ่งน้ำพริกหนุ่ม<br />
-  	      Steamed Snaper with Nortern Style Dipping
+  	      Steamed Snapper with Nortern Style Dipping
   	    </td>
   	    <td>
   	      150, 200 THB
@@ -587,7 +587,7 @@ h2 {
   	  <tr>
   	    <td>
   	      คะน้าหมูกรอบ <br />
-  	      Chinese Broccoli with Chrispy Pork Belli Saute in Oyster Sauce
+  	      Chinese Broccoli with Chrispy Pork Belly Saute in Oyster Sauce
   	    </td>
   	    <td>
   	      80 THB
@@ -633,44 +633,349 @@ h2 {
   </table>
 </div>
 
-<pre>
- 
-จานเล็ก Side Dish
-ข้าวสวย White Rice_________________________________________________________________________________10 THB
-ข้าวเหนียว Sticky Rice_______________________________________________________________________________10 THB
-ข้าวสวยนุ่มพิเศษ Japanese Rice______________________________________________________________________10 THB
-ไข่ดาว Fried Eggs__________________________________________________________________________________10 THB
-ไข่ต้ม Boiled Eggs__________________________________________________________________________________10 THB
- 
-อาหารพื้นบ้าน Local Food
-ลาบหมู Minced Pork Salad__________________________________________________________________________80 THB
-ลาบเนื้อ Minced Beef Salad_________________________________________________________________________80 THB
-ต้มแซบ Spicy Soup with Pork Intestines_______________________________________________________________80 THB
-เนื้อนึ่ง Steamed Beef_______________________________________________________________________________80 THB
-เครื่องในนึ่ง Steamed Pork Intestines__________________________________________________________________80 THB
-แกงป่า (ไก่, เนื้อ, กบ) Jungle Curry (Chicken, Beet, Frog)________________________________________________100THB
-ต้มยำขาหมู Tom Yam Pork Leg_______________________________________________________________________80 THB
-กบทอด Fried Frog with Garlic_______________________________________________________________________100 THB
-ต้มยำตะพาบน้ำ Tom Yam Solf Shelled Turtle__________________________________________________________250 THB
-ผัดเผ็นดตะพาบน้ำ Solf Shelled Turtle Saute in Chilli Past________________________________________________200 THB
- 
-เครื่องดื่ม Beverages
-เบียร์สด Draft Beer________________________________________________________________________________120 THB
-เบียร์ลีโอ Leo Beer_________________________________________________________________________________70 THB
-เบียร์ช้าง Chang Beer_______________________________________________________________________________65 THB
-เบียร์สิงห์ Singha Beer______________________________________________________________________________80 THB
-เบียร์ไฮนิเกน Heineken Beer_________________________________________________________________________90 THB
-สุราหงษ์ทอง (แบน/ขวด) Thai Wisky______________________________________________________________160, 300 THB
-Blend 285_______________________________________________________________________________________320 THB
-Regency (แบน)___________________________________________________________________________________340 THB
-น้ำอัดลม Solf Drink_________________________________________________________________________________15 THB
-น้ำแข็ง Ice Bucket______________________________________________________________________________20, 40 THB
-น้ำดื่ม Still Water___________________________________________________________________________________10 THB
-กาแฟสด Coffee____________________________________________________________________________________30 THB
-กาแฟปั่น Coffee Frappuccino________________________________________________________________________30 THB
-ชาเขียวปั่น Green Tea Frappuccino___________________________________________________________________30 THB
- 
-ของหวาน Dessert
-ผลไม้รวม Mixed Fruit Plater_________________________________________________________________________50 THB
-ไอศครีม Local Ice Cream________________________________________________________________________10, 20 THB
-</pre>
+
+<div class="table-responsive">
+  <table class="table table-striped">
+  	<thead>
+  	  <tr>
+  	    <th>
+  	      จานเล็ก Side Dishes
+  	    </th>
+  	    <th class="price">
+  	      Price
+  	    </th>
+  	  </tr>	
+  	</thead>
+  	<tbody>
+  	  <tr>
+  	    <td>
+  	      ข้าวสวย <br />
+  	      White Rice
+  	    </td>
+  	    <td>
+  	      10 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ข้าวเหนียว <br />
+  	      Sticky Rice
+  	    </td>
+  	    <td>
+  	      10 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ข้าวสวยนุ่มพิเศษ <br />
+  	      Japanese Rice
+  	    </td>
+  	    <td>
+  	      10 HTB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ไข่ดาว <br />
+  	      Fried Eggs
+  	    </td>
+  	    <td>
+  	      10 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ไข่ต้ม <br />
+  	      Boiled Eggs
+  	    </td>
+  	    <td>
+  	      10 THB
+  	    </td>
+  	  </tr>
+  	</tbody>
+  </table>
+</div>
+
+<div class="table-responsive">
+  <table class="table table-striped">
+  	<thead>
+  	  <tr>
+  	    <th>
+  	      อาหารพื้นบ้าน Local Food
+  	    </th>
+  	    <th class="price">
+  	      Price
+  	    </th>
+  	  </tr>	
+  	</thead>
+  	<tbody>
+  	  <tr>
+  	    <td>
+  	      ลาบหมู <br />
+  	      Minced Pork Salad
+  	    </td>
+  	    <td>
+  	      80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ลาบเนื้อ <br />
+  	      Minced Beef Salad
+  	    </td>
+  	    <td>
+  	      80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ต้มแซบ <br />
+  	      Spicy Soup with Pork Intestines
+  	    </td>
+  	    <td>
+  	      80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      เนื้อนึ่ง <br />
+  	      Steamed Beef
+  	    </td>
+  	    <td>
+  	      80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      เครื่องในนึ่ง <br />
+  	      Steamed Pork Intestines
+  	    </td>
+  	    <td>
+  	      80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      แกงป่า (ไก่, เนื้อ, กบ) <br />
+  	      Jungle Curry (Chicken, Beef, Frog)
+  	    </td>
+  	    <td>
+  	      100 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ต้มยำขาหมู <br />
+  	      Tom Yam Pork Leg
+  	    </td>
+  	    <td>
+  	      80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      กบทอด <br />
+  	      Fried Frog with Garlic
+  	    </td>
+  	    <td>
+  	      100 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ต้มยำตะพาบน้ำ <br />
+  	      Tom Yam Solf Shelled Turtle
+  	    </td>
+  	    <td>
+  	      250 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ผัดเผ็นดตะพาบน้ำ <br />
+  	      Solf Shelled Turtle Saute in Chilli Paste
+  	    </td>
+  	    <td>
+  	      200 THB
+  	    </td>
+  	  </tr>
+  	</tbody>
+  </table>
+</div>
+
+<div class="table-responsive">
+  <table class="table table-striped">
+  	<thead>
+  	  <tr>
+  	    <th>
+  	      เครื่องดื่ม Beverages
+  	    </th>
+  	    <th class="price">
+  	      Price
+  	    </th>
+  	  </tr>	
+  	</thead>
+  	<tbody>
+  	  <tr>
+  	    <td>
+  	      เบียร์สด <br />
+  	      Draft Beer
+  	    </td>
+  	    <td>
+  	      120 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      เบียร์ลีโอ <br />
+  	      Leo Beer
+  	    </td>
+  	    <td>
+  	      70 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      เบียร์ช้าง <br />
+  	      Chang Beer
+  	    </td>
+  	    <td>
+  	      65 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      เบียร์สิงห์ <br />
+  	      Singha Beer
+  	    </td>
+  	    <td>
+  	      80 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      เบียร์ไฮนิเกน <br />
+  	      Heineken Beer
+  	    </td>
+  	    <td>
+  	      90 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      สุราหงษ์ทอง (แบน/ขวด) <br />
+  	      Thai Wisky
+  	    </td>
+  	    <td>
+  	      160, 300 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      Blend 285
+  	    </td>
+  	    <td>
+  	      320 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      Regency (แบน)
+  	    </td>
+  	    <td>
+  	      340 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      น้ำอัดลม <br />
+  	      Soft Drink
+  	    </td>
+  	    <td>
+  	      15 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      น้ำแข็ง <br />
+  	      Ice Bucket
+  	    </td>
+  	    <td>
+  	      20, 40 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      น้ำดื่ม <br />
+  	      Still Water
+  	    </td>
+  	    <td>
+  	      10 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      กาแฟสด <br />
+  	      Coffee
+  	    </td>
+  	    <td>
+  	      30 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      กาแฟปั่น <br />
+  	      Coffee Frappuccino
+  	    </td>
+  	    <td>
+  	      30 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ชาเขียวปั่น <br />
+  	      Green Tea Frappuccino
+  	    </td>
+  	    <td>
+  	      30 THB
+  	    </td>
+  	  </tr>
+  	</tbody>
+  </table>
+</div>
+
+<div class="table-responsive">
+  <table class="table table-striped">
+  	<thead>
+  	  <tr>
+  	    <th>
+  	      ของหวาน Desserts
+  	    </th>
+  	    <th class="price">
+  	      Price
+  	    </th>
+  	  </tr>	
+  	</thead>
+  	<tbody>
+  	  <tr>
+  	    <td>
+  	      ผลไม้รวม <br />
+  	      Mixed Fruit Platter
+  	    </td>
+  	    <td>
+  	      50 THB
+  	    </td>
+  	  </tr>
+  	  <tr>
+  	    <td>
+  	      ไอศครีม <br />
+  	      Local Ice Cream
+  	    </td>
+  	    <td>
+  	      10, 20 THB
+  	    </td>
+  	  </tr>
+  	</tbody>
+  </table>
+</div>
+
